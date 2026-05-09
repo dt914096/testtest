@@ -1,8 +1,4 @@
 testtest
 testtest2
-<<<<<<< HEAD
 add by master
-=======
-
 add by tester
->>>>>>> test
